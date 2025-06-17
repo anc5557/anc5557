@@ -4,7 +4,7 @@
 복잡하고 반복적인 업무를 AI 기술로 해결하여 팀의 생산성을 높이는 것에 큰 보람을 느낍니다. 특히 RAG, LLM 에이전트, 업무 자동화에 대한 깊은 이해를 바탕으로 실질적인 비즈니스 문제를 해결하는 데 강점이 있습니다.
 
 - 📧 **Email**: `anc5557@naver.com`
-- 📝 **Notion**: [포트폴리오](https://www.notion.so/6ffe36a6c1a74272aea5b3ef035c6e561)
+- 📝 **Notion**: [이력서](https://www.notion.so/6ffe36a6c1a74272aea5b3ef035c6e56)
 
 ---
 

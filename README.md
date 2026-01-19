@@ -37,7 +37,7 @@
 - 데이터 불일치 문제를 해결하여 최종 점수 0.620으로 **전체 2위를 수상**.
 - **`Tech`**: `PyTorch`, `Python`, `Scikit-learn`
 
-### 4. 뮤직 플레이리스트 클러스터링 (2022.03 - 2022.06)
+### 4. [뮤직 플레이리스트 클러스터링](https://github.com/anc5557/make_playlist) (2022.03 - 2022.06)
 - Spotify API로 수집한 데이터를 K-Means Clustering(비지도 학습)을 활용해 음악 플레이리스트를 자동 분류.
 - PCA(주성분 분석)로 특징 간 상관관계를 해결하여 모델의 분류 성능을 개선.
 - **`Tech`**: `Python`, `Scikit-learn`, `Spotify API`

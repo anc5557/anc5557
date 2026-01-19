@@ -4,7 +4,6 @@
 복잡하고 반복적인 업무를 AI 기술로 해결하여 팀의 생산성을 높이는 것에 큰 보람을 느낍니다. 특히 RAG, LLM 에이전트, 업무 자동화에 대한 깊은 이해를 바탕으로 실질적인 비즈니스 문제를 해결하는 데 강점이 있습니다.
 
 - 📧 **Email**: `anc5557@naver.com`
-- 📝 **Notion**: [이력서](https://www.notion.so/6ffe36a6c1a74272aea5b3ef035c6e56)
 
 ---
 
@@ -23,10 +22,10 @@
 
 ## 🚀 Projects
 
-### 1. 크리니티 사내 RAG 챗봇 및 업무 자동화 (2024.05 - 현재)
-- Vision LLM으로 매뉴얼 전처리를 자동화하여 검색 정확도 향상 (유사도 `0.4 → 0.85`).
-- LangGraph 기반의 멀티 툴 AI 에이전트(문서, DB, Drive 검색)를 개발하여 주간 보고서 작성 시간 단축 (`3시간 → 30분`).
-- **`Tech`**: `RAG`, `LangGraph`, `Vision-LLM`, `Milvus`, `Airflow`, `Spring Boot`, `Vue3`
+### 1. [AI Agent 데이터 플랫폼](https://github.com/anc5557/ai-agent-data-platform) (2025.07 - 2025.11)
+- 데이터 레이크하우스(Spark, Iceberg) 구축부터 LangGraph 기반 AI 에이전트, Vue.js 챗봇 UI까지 **End-to-End** 개발
+- 하이브리드 벡터 검색(Dense + Sparse)과 멀티 Tool 에이전트로 사내 업무 자동화 구현
+- **`Tech`**: LangGraph, Milvus, Apache Spark, Iceberg, Airflow, Trino, Vue3
 
 ### 2. KT GROW 모델 기반 리더 코칭 챗봇 (2023.05 - 2023.07)
 - ChatGPT와 프롬프트 엔지니어링을 활용해 GROW 모델 기반의 AI 코칭 역할극 서비스 개발.

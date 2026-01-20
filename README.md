@@ -12,11 +12,11 @@
 | Category | Skills |
 | --- | --- |
 | **AI/ML** | `RAG`, `LangChain`, `LangGraph`, `Prompt Engineering`, `MCP` |
-| **Backend** | `FastAPI`, `Django`, `Spring Boot` |
+| **Backend** | `FastAPI`, `Spring Boot` |
 | **Frontend** | `Vue3`, `NextJS` |
 | **Database** | `Milvus (Vector DB)`, `MySQL`, `Redis` |
 | **DevOps & Tools** | `Airflow`, `Git`, `GitHub`, `Docker` |
-| **Productivity AI Tools** | `ChatGPT`, `Cursor AI`, `Microsoft Copilot`, `Genspark` |
+| **Productivity AI Tools** | `ChatGPT`, `Cursor AI`, `Antigravity`, `codex`, `oh-my-opencode` |
 
 ---
 

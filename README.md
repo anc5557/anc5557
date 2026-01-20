@@ -26,7 +26,7 @@ AI 기술로 반복 업무를 자동화하고, 조직의 생산성과 효율을 
 ### 1. [AI Agent 데이터 플랫폼](https://github.com/anc5557/ai-agent-data-platform) (2025.07 - 2025.11)
 - 데이터 레이크하우스(Spark, Iceberg) 구축부터 LangGraph 기반 AI 에이전트, Vue.js 챗봇 UI까지 **End-to-End** 개발
 - 하이브리드 벡터 검색(Dense + Sparse)과 멀티 Tool 에이전트로 사내 업무 자동화 구현
-- **`Tech`**: LangGraph, Milvus, Apache Spark, Iceberg, Airflow, Trino, Vue3
+- **`Tech`**: `LangGraph`, `Milvus`, `Apache Spark`, `Iceberg`, `Airflow`, `Trino`, `Vue3`
 
 ### 2. KT GROW 모델 기반 리더 코칭 챗봇 (2023.05 - 2023.07)
 - ChatGPT와 프롬프트 엔지니어링을 활용해 GROW 모델 기반의 AI 코칭 역할극 서비스 개발.

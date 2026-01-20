@@ -32,7 +32,7 @@
 - 음성 인터페이스(Whisper AI, TTS)를 구현하고, 사업부와 협업하여 프로젝트를 성공적으로 이끌어 'Practical' 상 수상.
 - **`Tech`**: `Django`, `Python`, `OpenAI API`, `MySQL`
 
-### 3. SW중심대학 딥러닝 챌린지 - 2위 (2022.07 - 2022.08)
+### 3. [SW중심대학 딥러닝 챌린지 - 2위](https://github.com/anc5557/SWunivchllenge) (2022.07 - 2022.08)
 - Kaggle Open-Set Recognition 문제에서 'OpenMAX' 알고리즘을 도입 및 PyTorch로 구현.
 - 데이터 불일치 문제를 해결하여 최종 점수 0.620으로 **전체 2위를 수상**.
 - **`Tech`**: `PyTorch`, `Python`, `Scikit-learn`

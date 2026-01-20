@@ -5,6 +5,8 @@
 AI 기술로 반복 업무를 자동화하고, 조직의 생산성과 효율을 높이는 솔루션을 만들어왔습니다. RAG, LLM Agent, LangGraph 등 AI 기술뿐만 아니라, 이를 지탱하는 데이터 파이프라인(ETL)부터 백엔드 서빙, 배포(DevOps)까지 엔드투엔드(End-to-End)로 수행합니다. 실무 개발자, 기획자, C레벨 리더와의 협업을 통해 기술이 곧 비즈니스 가치로 이어지는 AI 시스템을 설계합니다
 
 - 📧 **Email**: `anc5557@naver.com`
+- 📄 **Resume**: [이력서(PDF)](https://github.com/anc5557/resume/blob/main/%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A7%E1%86%A8%E1%84%89%E1%85%A5.pdf)
+
 
 ---
 

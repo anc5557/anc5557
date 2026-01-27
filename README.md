@@ -14,7 +14,7 @@ AI 기술로 반복 업무를 자동화하고, 조직의 생산성과 효율을 
 
 | Category | Skills |
 | --- | --- |
-| **AI/ML** | `RAG`, `LangChain`, `LangGraph`, `Prompt Engineering`, `MCP` |
+| **AI/ML** | `RAG`, `LangChain`, `LangGraph`, `Context/Prompt Engineering`|
 | **Backend** | `FastAPI`, `Spring Boot` |
 | **Frontend** | `Vue3`, `NextJS` |
 | **Database** | `Milvus (Vector DB)`, `MySQL`, `Redis` |
